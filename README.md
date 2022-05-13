@@ -1,2 +1,3 @@
 # Data-cleaning -2020
 Cleaning of a manually entered data:: :: name , phone number and repetitions...
+Cleans the name, phone number and check for duplicate entries using a criteria and then removes them.
